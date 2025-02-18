@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ChatServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChatServer_jar</output-path>
+    <root id="archive" name="ChatServer.jar">
+      <element id="module-output" name="ChatServer" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/eliazzz12/ChatAPI/-v1.0.1-ge36266c-1/ChatAPI--v1.0.1-ge36266c-1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
